@@ -21,7 +21,7 @@ I am a Lecturer at China University of Petroleum (East China), working on AI sto
 
 In the past five years, I have published 10+ CCF-recommended papers in venues such as ICDE, AAAI, ISCA, IEEE TC, and IEEE TCAD. I also have extensive engineering experience from a National Key R&D Program project on “High-Performance Computing Virtual Data Space,” where I developed GVDS, a cross-domain virtual data space storage system featuring scalable metadata, cross-domain data access, and wide-area compute–storage collaborative scheduling, deployed in national supercomputing environments and industry partners.
 
-# My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).  -->
 
 
 # 🔥 News
