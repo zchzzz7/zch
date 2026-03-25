@@ -30,36 +30,26 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 
 # 📝 Publications 
 
-- **Chenhao Zhang**, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et al. **RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus**. *2026 IEEE 41st International Conference on Data Engineering (ICDE)*, 2026. **CCF-A**.
+- [R1] **Chenhao Zhang**, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et al. **RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus**. *2026 IEEE 41st International Conference on Data Engineering (ICDE)*, 2026. **(CCF-A)**.
 
-- Shudong Wang†, Xinfei Wang†, **Chenhao Zhang**\*†, et al. **Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning**. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026. **CCF-A**.  
-  (*co-first author, sole corresponding author*)
+- [R2] Shudong Wang†, Xinfei Wang†, **Chenhao Zhang**\*†, et al. **Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning**. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026. **(CCF-A)**.  
 
-- Meng Han, Liang Wang, Limin Xiao, Hao Zhang, Tianhao Cai, and **Chenhao Zhang**. **BitNN: A Bit-Serial Accelerator for K-Nearest Neighbor Search in Point Clouds**. In *2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)*, 2024, pp. 1278–1292. **CCF-A**.
+- [R3] **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Minimizing the Cost of Periodically Replicated Systems via Model and Quantitative Analysis**. *Frontiers of Computer Science*, 2024. **CCF-B, Q1**.
 
-- **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Minimizing the Cost of Periodically Replicated Systems via Model and Quantitative Analysis**. *Frontiers of Computer Science*, 2024. **CCF-B, Q1**.
+- [R4] **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Low-Cost and Efficient Consistency with Adaptive Synchronization for Metadata Replica**. *Frontiers of Computer Science*, 2025. **CCF-B, Q1**.
 
-- **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Low-Cost and Efficient Consistency with Adaptive Synchronization for Metadata Replica**. *Frontiers of Computer Science*, 2025. **CCF-B, Q1**.
-
-- Shanchen Pang, Miaomiao Fan, Xiao He, Wenhao Ji, Sibo Qiao, **Chenhao Zhang**\*. **Multi-agent DRL-based Task Offloading and Trajectory Optimization for Low Altitude UAV IoT Systems**. *Ad Hoc Networks*, 2026: 104164. **CCF-C, Q1**.  
+- [R5] Shanchen Pang, Miaomiao Fan, Xiao He, Wenhao Ji, Sibo Qiao, **Chenhao Zhang**\*. **Multi-agent DRL-based Task Offloading and Trajectory Optimization for Low Altitude UAV IoT Systems**. *Ad Hoc Networks*, 2026: 104164. **CCF-C, Q1**.  
   (*sole corresponding author*)
 
-- 张晨浩，肖利民，秦广军，宋尧，蒋世轩. **面向大数据处理应用的广域存算协同调度系统**. *大数据*, 2021. **CCF T2**.
+- [R6] 张晨浩，肖利民，秦广军，宋尧，蒋世轩. **面向大数据处理应用的广域存算协同调度系统**. *大数据*, 2021. **CCF T2**.
 
-- Meng Han, Limin Xiao*, Liang Wang*, **Chenhao Zhang**. **QuickFPS: Architecture and Algorithm Co-Design for Farthest Point Sampling in Large-Scale Point Clouds**. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)*. **CCF-A**.
+- [R7] Meng Han, Liang Wang, Limin Xiao, Hao Zhang, Tianhao Cai, and **Chenhao Zhang**. **BitNN: A Bit-Serial Accelerator for K-Nearest Neighbor Search in Point Clouds**. In *2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)*, 2024, pp. 1278–1292. **CCF-A**.
 
-- Meng Han, Liang Wang, Limin Xiao, Tianhao Cai, Zeyu Wang, Xiangrong Xu, and **Chenhao Zhang**. **ReDas: A Lightweight Architecture for Supporting Fine-Grained Reshaping and Multiple Dataflows on Systolic Array**. *IEEE Transactions on Computers (IEEE TC)*. **CCF-A**.
+- [R8] Meng Han, Limin Xiao*, Liang Wang*, **Chenhao Zhang**. **QuickFPS: Architecture and Algorithm Co-Design for Farthest Point Sampling in Large-Scale Point Clouds**. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)*. **CCF-A**.
 
-- Bing Wei, Limin Xiao*, Hanjie Zhou, Guangjun Qin*, Yao Song, and **Chenhao Zhang**. **Global Virtual Data Space for Unified Data Access across Supercomputing Centers**. *IEEE Transactions on Cloud Computing*, 2022, 11(2): 1822–1839. **CCF-B**.
+- [R9] Meng Han, Liang Wang, Limin Xiao, Tianhao Cai, Zeyu Wang, Xiangrong Xu, and **Chenhao Zhang**. **ReDas: A Lightweight Architecture for Supporting Fine-Grained Reshaping and Multiple Dataflows on Systolic Array**. *IEEE Transactions on Computers (IEEE TC)*. **CCF-A**.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [R10] Bing Wei, Limin Xiao*, Hanjie Zhou, Guangjun Qin*, Yao Song, and **Chenhao Zhang**. **Global Virtual Data Space for Unified Data Access across Supercomputing Centers**. *IEEE Transactions on Cloud Computing*, 2022, 11(2): 1822–1839. **CCF-B**.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -79,6 +69,10 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 - [P2] 山东省自然科学基金青年基金“面向AI应用跨域协同计算场景的大规模存储系统优化技术研究”。【省部级项目，主持】
 
 - [P3] 青岛市博士后项目资助，一等资助，该批次全校仅3人入选。【省部级项目，主持】
+
+- [P4] 山东省博士后创新种子培养计划。【主持】
+
+- [P5] 自主创新科研计划项目（理工科）。【主持】
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
