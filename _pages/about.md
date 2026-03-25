@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <div style="font-family: 'Times New Roman', Times, serif;">
-
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -19,59 +17,71 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer at China University of Petroleum (East China), working on AI storage systems and LLM/AI systems at a national demonstrative software school (team lead: Shancheng Pang). I received my B.Eng. from China University of Petroleum (East China) in 2019 and my Ph.D. in Computer Science from Beihang University in 2025 (advisor: Limin Xiao). My research lies at the intersection of storage systems and AI systems, focusing on storage/memory hierarchy optimization, cross-domain data management, distributed systems, and compute-storage co-scheduling for emerging computing paradigms.
+I am a Lecturer at China University of Petroleum (East China), working on AI storage systems and LLM/AI systems at a national demonstrative software school (team lead: Shancheng Pang). I received my B.Eng. from China University of Petroleum (East China) in 2019 and my Ph.D. in Computer Science from Beihang University in 2025 (advisor: Limin Xiao). My research lies at the intersection of storage systems and AI systems, focusing on storage/memory hierarchy optimization, cross-domain data management, and compute–storage co-scheduling for emerging computing paradigms.
 
-In recent years, I have published papers in top-tier venues such as ICDE, AAAI, ISCA, IEEE TC, and IEEE TCAD, with research spanning distributed consensus, offline multi-task reinforcement learning, storage systems, cloud computing, and AI system optimization.
+In the past five years, I have published 10+ CCF-recommended papers in venues such as ICDE, AAAI, ISCA, IEEE TC, and IEEE TCAD. I also have extensive engineering experience from a National Key R&D Program project on “High-Performance Computing Virtual Data Space,” where I developed GVDS, a cross-domain virtual data space storage system featuring scalable metadata, cross-domain data access, and wide-area compute–storage collaborative scheduling, deployed in national supercomputing environments and industry partners.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).  -->
+
 
 # 🔥 News
-- *2026*: One paper on distributed consensus was accepted by **ICDE 2026**.
-- *2026*: One paper on offline multi-task reinforcement learning was accepted by **AAAI 2026**.
-- *2025*: One paper on metadata replica consistency was published in *Frontiers of Computer Science*.
-- *2024*: One paper on periodically replicated systems was published in *Frontiers of Computer Science*.
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications
+# 📝 Publications 
 
 ## Conference Papers
-- [R1] **Chenhao Zhang**, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et al. **RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus**. *2026 IEEE 41st International Conference on Data Engineering (ICDE)*, Canada, 2026. <span style="color:#1f77b4;"><strong>CCF-A Conference</strong></span>
+- **Chenhao Zhang**, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et al. **RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus**. *2026 IEEE 41st International Conference on Data Engineering (ICDE)*, 2026. **CCF-A**.
 
-- [R2] Shudong Wang†, Xinfei Wang†, **Chenhao Zhang**\*†, et al. **Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning**. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026. <span style="color:#1f77b4;"><strong>CCF-A Conference</strong></span>  
+- Shudong Wang†, Xinfei Wang†, **Chenhao Zhang**\*†, et al. **Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning**. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026. **CCF-A**.  
   (*co-first author, sole corresponding author*)
 
-- [R3] Meng Han, Liang Wang, Limin Xiao, Hao Zhang, Tianhao Cai, and **Chenhao Zhang**. **BitNN: A Bit-Serial Accelerator for K-Nearest Neighbor Search in Point Clouds**. In *2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)*, 2024: 1278–1292. <span style="color:#1f77b4;"><strong>CCF-A Conference</strong></span>
+- Meng Han, Liang Wang, Limin Xiao, Hao Zhang, Tianhao Cai, and **Chenhao Zhang**. **BitNN: A Bit-Serial Accelerator for K-Nearest Neighbor Search in Point Clouds**. In *2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)*, 2024, pp. 1278–1292. **CCF-A**.
 
-## Journal Papers
-- [R4] **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Minimizing the Cost of Periodically Replicated Systems via Model and Quantitative Analysis**. *Frontiers of Computer Science*, 2024. <span style="color:#1f77b4;"><strong>CCF-B Journal, Q1</strong></span>
+- **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Minimizing the Cost of Periodically Replicated Systems via Model and Quantitative Analysis**. *Frontiers of Computer Science*, 2024. **CCF-B, Q1**.
 
-- [R5] **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Low-Cost and Efficient Consistency with Adaptive Synchronization for Metadata Replica**. *Frontiers of Computer Science*, 2025. <span style="color:#1f77b4;"><strong>CCF-B Journal, Q1</strong></span>
+- **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Low-Cost and Efficient Consistency with Adaptive Synchronization for Metadata Replica**. *Frontiers of Computer Science*, 2025. **CCF-B, Q1**.
 
-- [R6] Shanchen Pang, Miaomiao Fan, Xiao He, Wenhao Ji, Sibo Qiao, **Chenhao Zhang**\*. **Multi-agent DRL-based Task Offloading and Trajectory Optimization for Low Altitude UAV IoT Systems**. *Ad Hoc Networks*, 2026: 104164. <span style="color:#1f77b4;"><strong>CCF-C Journal, Q1</strong></span>  
+- Shanchen Pang, Miaomiao Fan, Xiao He, Wenhao Ji, Sibo Qiao, **Chenhao Zhang**\*. **Multi-agent DRL-based Task Offloading and Trajectory Optimization for Low Altitude UAV IoT Systems**. *Ad Hoc Networks*, 2026: 104164. **CCF-C, Q1**.  
   (*sole corresponding author*)
 
-- [R7] **张晨浩**，肖利民，秦广军，宋尧，蒋世轩. **面向大数据处理应用的广域存算协同调度系统**. *大数据*, 2021. <span style="color:#1f77b4;"><strong>CCF T2 Journal</strong></span>
+- 张晨浩，肖利民，秦广军，宋尧，蒋世轩. **面向大数据处理应用的广域存算协同调度系统**. *大数据*, 2021. **CCF T2**.
 
-- [R8] Meng Han, Limin Xiao*, Liang Wang*, **Chenhao Zhang**. **QuickFPS: Architecture and Algorithm Co-Design for Farthest Point Sampling in Large-Scale Point Clouds**. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)*. <span style="color:#1f77b4;"><strong>CCF-A Journal</strong></span>
+- Meng Han, Limin Xiao*, Liang Wang*, **Chenhao Zhang**. **QuickFPS: Architecture and Algorithm Co-Design for Farthest Point Sampling in Large-Scale Point Clouds**. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (IEEE TCAD)*. **CCF-A**.
 
-- [R9] Meng Han, Liang Wang, Limin Xiao, Tianhao Cai, Zeyu Wang, Xiangrong Xu, and **Chenhao Zhang**. **ReDas: A Lightweight Architecture for Supporting Fine-Grained Reshaping and Multiple Dataflows on Systolic Array**. *IEEE Transactions on Computers (IEEE TC)*. <span style="color:#1f77b4;"><strong>CCF-A Journal</strong></span>
+- Meng Han, Liang Wang, Limin Xiao, Tianhao Cai, Zeyu Wang, Xiangrong Xu, and **Chenhao Zhang**. **ReDas: A Lightweight Architecture for Supporting Fine-Grained Reshaping and Multiple Dataflows on Systolic Array**. *IEEE Transactions on Computers (IEEE TC)*. **CCF-A**.
 
-- [R10] Bing Wei, Limin Xiao*, Hanjie Zhou, Guangjun Qin*, Yao Song, and **Chenhao Zhang**. **Global Virtual Data Space for Unified Data Access across Supercomputing Centers**. *IEEE Transactions on Cloud Computing*, 2022, 11(2): 1822–1839. <span style="color:#1f77b4;"><strong>CCF-B Journal</strong></span>
+- Bing Wei, Limin Xiao*, Hanjie Zhou, Guangjun Qin*, Yao Song, and **Chenhao Zhang**. **Global Virtual Data Space for Unified Data Access across Supercomputing Centers**. *IEEE Transactions on Cloud Computing*, 2022, 11(2): 1822–1839. **CCF-B**.
 
-# 🎖 Selected Research Highlights
-- Research on **distributed consensus optimization**, represented by *RL-Paxos*, exploring intelligent task offloading for relieving the leader bottleneck in Paxos-like protocols.
-- Research on **offline multi-task reinforcement learning**, represented by *Soft Conflict-Resolution Decision Transformer*, focusing on conflict mitigation and generalization across heterogeneous tasks.
-- Research on **storage and data systems**, including metadata consistency, periodically replicated systems, and wide-area virtual data space for unified data access across supercomputing centers.
-- Research on **AI systems and architecture optimization**, including point cloud processing acceleration and systolic-array-oriented architecture design.
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-# 📖 Education
-- *2019.09 - 2025.06*, Ph.D. in Computer Science, **Beihang University**, China
-- *2015.09 - 2019.06*, B.Eng., **China University of Petroleum (East China)**, China
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
 
-# 💬 Research Interests
-- AI Storage Systems
-- LLM/AI Systems
-- Distributed Systems and Consensus
-- Storage/Memory Hierarchy Optimization
-- Cross-domain Data Management
-- Compute-Storage Co-Scheduling
-- Offline Multi-Task Reinforcement Learning
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+# 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, 
+
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📂 Research Projects
+
+申请人主持存储领域多项科研项目，具备完成本项目的研究能力与基础。
+
+- [P1] 工信部“***系统项目”中负责“******存储与智能分析技术”。【国家级其他重大项目子任务，主持，附件6】
+
+- [P2] 山东省自然科学基金青年基金“面向AI应用跨域协同计算场景的大规模存储系统优化技术研究”。【省部级项目，主持，附件7】
+
+- [P3] 青岛市博士后项目资助“面向AI模型跨域计算的海量高效存储系统关键技术研究”，一等资助，该批次全校仅3人入选。【省部级项目，主持，附件8】
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 </div>
