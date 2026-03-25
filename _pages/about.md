@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer at China University of Petroleum (East China), working on AI storage systems and LLM/AI systems at a national demonstrative software school (team lead: Shancheng Pang). I received my B.Eng. from China University of Petroleum (East China) in 2019 and my Ph.D. in Computer Science from Beihang University in 2025 (advisor: Limin Xiao). My research lies at the intersection of storage systems and AI systems, focusing on storage/memory hierarchy optimization, cross-domain data management, and compute–storage co-scheduling for emerging computing paradigms.
+I am a Lecturer at China University of Petroleum (East China), working on AI storage systems and LLM/AI systems at a national demonstrative software school (team lead: Shancheng Pang, Tao Song and Xun Wang, et.al). I received my B.Eng. from China University of Petroleum (East China) in 2019 and my Ph.D. in Computer Science from Beihang University in 2025 (advisor: Limin Xiao). My research lies at the intersection of storage systems and AI systems, focusing on storage/memory hierarchy optimization, cross-domain data management, and compute–storage co-scheduling for emerging computing paradigms.
 
 In the past five years, I have published 10+ CCF-recommended papers in venues such as ICDE, AAAI, ISCA, IEEE TC, and IEEE TCAD. I also have extensive engineering experience from a National Key R&D Program project on “High-Performance Computing Virtual Data Space,” where I developed GVDS, a cross-domain virtual data space storage system featuring scalable metadata, cross-domain data access, and wide-area compute–storage collaborative scheduling, deployed in national supercomputing environments and industry partners.
 
@@ -28,7 +28,7 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Publications（10篇）
 
 - [R1] **Chenhao Zhang**, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et al. **RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus**. *2026 IEEE 41st International Conference on Data Engineering (ICDE)*, 2026. **(CCF-A)**.
 
@@ -39,9 +39,8 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 - [R4] **Chenhao Zhang**, Limin Xiao*, Liang Wang*, et al. **Low-Cost and Efficient Consistency with Adaptive Synchronization for Metadata Replica**. *Frontiers of Computer Science*, 2025. **CCF-B, Q1**.
 
 - [R5] Shanchen Pang, Miaomiao Fan, Xiao He, Wenhao Ji, Sibo Qiao, **Chenhao Zhang**\*. **Multi-agent DRL-based Task Offloading and Trajectory Optimization for Low Altitude UAV IoT Systems**. *Ad Hoc Networks*, 2026: 104164. **CCF-C, Q1**.  
-  (*sole corresponding author*)
 
-- [R6] 张晨浩，肖利民，秦广军，宋尧，蒋世轩. **面向大数据处理应用的广域存算协同调度系统**. *大数据*, 2021. **CCF T2**.
+- [R6] **张晨浩**，肖利民，秦广军，宋尧，蒋世轩. **面向大数据处理应用的广域存算协同调度系统**. *大数据*, 2021. **CCF T2**.
 
 - [R7] Meng Han, Liang Wang, Limin Xiao, Hao Zhang, Tianhao Cai, and **Chenhao Zhang**. **BitNN: A Bit-Serial Accelerator for K-Nearest Neighbor Search in Point Clouds**. In *2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)*, 2024, pp. 1278–1292. **CCF-A**.
 
@@ -52,29 +51,30 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 - [R10] Bing Wei, Limin Xiao*, Hanjie Zhou, Guangjun Qin*, Yao Song, and **Chenhao Zhang**. **Global Virtual Data Space for Unified Data Access across Supercomputing Centers**. *IEEE Transactions on Cloud Computing*, 2022, 11(2): 1822–1839. **CCF-B**.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023* 北航一等奖学金.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, 
+- *2022* 北航三好学生.
 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* 北航优秀学生干部.
+
+- *2025* “建行杯”山东省大学生创新大赛银奖（产业赛道）-指导教师。
 
 # 📂 Research Projects
 
-申请人主持存储领域多项科研项目，具备完成本项目的研究能力与基础。
+  主持5项国家级/省部级科研项目，参与国家重点研发计划、国家自然科学基金项目等10项，部分代表性项目如下：
 
-- [P1] 工信部“***系统项目”中负责“******存储与智能分析技术”。【国家级其他重大项目子任务，主持】
+- [P1] 国家重点研发计划“先进计算与新兴软件专项”--“面向云边端协同的系统软件与芯粒结构”项目， 13074.00 万元 【参与】
 
-- [P2] 山东省自然科学基金青年基金“面向AI应用跨域协同计算场景的大规模存储系统优化技术研究”。【省部级项目，主持】
+- [P2] 国家重点研发计划“高性能计算”专项--“高性能计算虚拟数据空间”项目， 915.00 万元【参与】
 
-- [P3] 青岛市博士后项目资助，一等资助，该批次全校仅3人入选。【省部级项目，主持】
+<!-- - [P3] 工信部“***系统项目”中负责“******存储与智能分析技术”。【国家级其他重大项目子任务，主持】
 
-- [P4] 山东省博士后创新种子培养计划。【主持】
+- [P4] 山东省XXX项目。【主持】
 
-- [P5] 自主创新科研计划项目（理工科）。【主持】
+- [P5] 青岛市XXX资助。【主持】
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- [P6] 山东省XXX项目。【主持】
+
+- [P7] 自主创新科研计划项目（理工科）。【主持】 -->
 
 </div>
