@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-family: 'Times New Roman', Times, serif;">
+<div markdown="1" style="font-family: 'Times New Roman', 'Microsoft YaHei', 'PingFang SC', serif;">
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -30,7 +30,6 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 
 # 📝 Publications 
 
-## Conference Papers
 - **Chenhao Zhang**, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et al. **RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus**. *2026 IEEE 41st International Conference on Data Engineering (ICDE)*, 2026. **CCF-A**.
 
 - Shudong Wang†, Xinfei Wang†, **Chenhao Zhang**\*†, et al. **Soft Conflict-Resolution Decision Transformer for Offline Multi-Task Reinforcement Learning**. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2026. **CCF-A**.  
@@ -75,11 +74,11 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 
 申请人主持存储领域多项科研项目，具备完成本项目的研究能力与基础。
 
-- [P1] 工信部“***系统项目”中负责“******存储与智能分析技术”。【国家级其他重大项目子任务，主持，附件6】
+- [P1] 工信部“***系统项目”中负责“******存储与智能分析技术”。【国家级其他重大项目子任务，主持】
 
-- [P2] 山东省自然科学基金青年基金“面向AI应用跨域协同计算场景的大规模存储系统优化技术研究”。【省部级项目，主持，附件7】
+- [P2] 山东省自然科学基金青年基金“面向AI应用跨域协同计算场景的大规模存储系统优化技术研究”。【省部级项目，主持】
 
-- [P3] 青岛市博士后项目资助“面向AI模型跨域计算的海量高效存储系统关键技术研究”，一等资助，该批次全校仅3人入选。【省部级项目，主持，附件8】
+- [P3] 青岛市博士后项目资助，一等资助，该批次全校仅3人入选。【省部级项目，主持】
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
