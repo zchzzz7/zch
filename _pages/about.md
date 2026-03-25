@@ -49,7 +49,8 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04 (now)*, [R1]Chenhao Zhang, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et.al. RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus. 2026 IEEE 41st International Conference on Data Engineering (ICDE), Canada. (CCF A类会议 ICDE) dapibus sit amet. 
+
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
