@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Lecturer at China University of Petroleum (East China), working on AI storage systems and LLM/AI systems at a national demonstrative software school (team lead: Shancheng Pang, Tao Song and Xun Wang, et.al). I received my B.Eng. from China University of Petroleum (East China) in 2019 and my Ph.D. in Computer Science from Beihang University in 2025 (advisor: Limin Xiao). My research lies at the intersection of storage systems and AI systems, focusing on storage/memory hierarchy optimization, cross-domain data management, and compute–storage co-scheduling for emerging computing paradigms.
+Chenhao Zhang, Ph.D., Master's Supervisor，China University of Petroleum (East China), working on AI storage systems and LLM/AI systems at a national demonstrative software school (team lead: Shancheng Pang, Tao Song and Xun Wang, et.al). I received my B.Eng. from China University of Petroleum (East China) in 2019 and my Ph.D. in Computer Science from Beihang University in 2025 (advisor: Limin Xiao). My research lies at the intersection of storage systems and AI systems, focusing on storage/memory hierarchy optimization, cross-domain data management, and compute–storage co-scheduling for emerging computing paradigms.
 
 In the past five years, I have published 10+ CCF-recommended papers in venues such as ICDE, AAAI, ISCA, IEEE TC, and IEEE TCAD. I also have extensive engineering experience from a National Key R&D Program project on “High-Performance Computing Virtual Data Space,” where I developed GVDS, a cross-domain virtual data space storage system featuring scalable metadata, cross-domain data access, and wide-area compute–storage collaborative scheduling, deployed in national supercomputing environments and industry partners.
 
@@ -61,9 +61,9 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 
 # 📂 Research Projects
 
-  主持5项国家级/省部级科研项目，参与国家重点研发计划、国家自然科学基金项目等10项，部分代表性项目如下：
+  主持5项国家级/省部级科研项目，参与10项国家重点研发计划、国家自然科学基金项目等，部分代表性项目如下：
 
-- [P1] 国家重点研发计划“先进计算与新兴软件专项”--“面向云边端协同的系统软件与芯粒结构”项目， 13074.00 万元 【参与】
+- [P1] 国家重点研发计划“先进计算与新兴软件”专项--“面向云边端协同的系统软件与芯粒结构”项目， 13074.00 万元 【参与】
 
 - [P2] 国家重点研发计划“高性能计算”专项--“高性能计算虚拟数据空间”项目， 915.00 万元【参与】
 
