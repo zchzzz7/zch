@@ -24,11 +24,11 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).  -->
 
 
-# 🔥 News
+<!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications（10篇）
+# 📝 代表性论文（10篇）
 
 - [R1] **Chenhao Zhang**, Jinquan Wang, Meng Han, Bing Wei, Xiaojian Liao*, et al. **RL-Paxos: Relieving the Leader's Burden with Efficient Task Offloading in Distributed Consensus**. *2026 IEEE 41st International Conference on Data Engineering (ICDE)*, 2026. **(CCF-A)**.
 
@@ -50,7 +50,7 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 
 - [R10] Bing Wei, Limin Xiao*, Hanjie Zhou, Guangjun Qin*, Yao Song, and **Chenhao Zhang**. **Global Virtual Data Space for Unified Data Access across Supercomputing Centers**. *IEEE Transactions on Cloud Computing*, 2022, 11(2): 1822–1839. **CCF-B**.
 
-# 🎖 Honors and Awards
+# 🎖 荣誉和奖励
 - *2023* 北航一等奖学金.
 
 - *2022* 北航三好学生.
@@ -59,7 +59,16 @@ In the past five years, I have published 10+ CCF-recommended papers in venues su
 
 - *2025* “建行杯”山东省大学生创新大赛银奖（产业赛道）-指导教师。
 
-# 📂 Research Projects
+# 🔥 学术兼职
+- CCF A类国际会议 International Conference on Machine Learning (ICML) 审稿人
+
+- CCF A类国际会议 Annual Conference on Neural Information Processing Systems (NeurIPS) 审稿人
+
+- CCF C类期刊 The Journal of Supercomputing 审稿人
+
+- IEEE Non-Volatile Memory Systems and Applications Symposium (NVMSA)， Local Chair
+
+# 📂 教学、科研项目
 
   主持5项国家级/省部级科研项目，参与10项国家重点研发计划、国家自然科学基金项目等，部分代表性项目如下：
 
